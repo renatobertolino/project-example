@@ -5,7 +5,7 @@ Install:
 * [Java 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
 * [Maven](https://maven.apache.org/install.html)
 
-Para criar o banco e/ou executá-lo sem necessidade de ter o MySQL:
+Caso não tenha o MySQL em sua máquina, execute:
 
 ```docker-compose up```
 
